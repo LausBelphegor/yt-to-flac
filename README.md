@@ -70,3 +70,9 @@ This will create a single executable file in the `dist` directory. Add this dire
 - `sanitize_title(title)`: Removes invalid characters from a string to create a valid filename.
 - `download_videos(youtube, pending_playlist_id, downloaded_playlist_id)`: Downloads videos from the 'pending-to-download' playlist and moves them to the 'downloaded' playlist.
 - `main()`: The main function of the script. Sets up the YouTube API client, gets or creates the necessary playlists, downloads videos, and converts them to FLAC.
+
+
+  
+
+https://github.com/LausBelphegor/yt-to-flac/assets/69310891/663a52cb-00b2-4e3d-b3eb-c5462d8ec690
+
